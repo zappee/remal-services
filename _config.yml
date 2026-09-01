@@ -1,4 +1,4 @@
 title: "Project Documentation"
 description: "A short catchphrase or description of your project."
 baseurl: "/remal-services"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
