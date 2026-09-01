@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Magnis stringit minister
+# Fuit quartusque cornua miserarum
 
 ## Abest illi cumulemus ab
 
