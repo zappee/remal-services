@@ -1,10 +1,4 @@
----
-title: Overview
-layout: default
-nav_order: 1
----
-
-# Fuit quartusque cornua miserarum
+# Fuit quartusque cornua miserarum 1
 
 ## Abest illi cumulemus ab
 
