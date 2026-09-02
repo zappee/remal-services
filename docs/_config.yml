@@ -12,6 +12,8 @@ theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-remote-theme
 
+nav_sort: page_order
+
 nav_order:
   - index.md
   - api.md
