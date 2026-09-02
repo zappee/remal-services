@@ -8,5 +8,5 @@ baseurl: "/remal-services"
 remote_theme: pages-themes/hacker@v0.2.0
 
 # required plugins
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
