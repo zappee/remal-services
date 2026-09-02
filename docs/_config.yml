@@ -16,6 +16,7 @@ Xtheme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # required plugins
 #plugins:
