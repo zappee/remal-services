@@ -1,3 +1,9 @@
+--
+layout: default
+title: Home
+nav_order: 1
+---
+
 # Fuit quartusque cornua miserarum 3
 
 ## Abest illi cumulemus ab
