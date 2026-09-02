@@ -14,7 +14,3 @@ theme: jekyll-theme-cayman
 
 nav_sort: page_order
 
-nav_order:
-  - index.md
-  - api.md
-  - setup.md
