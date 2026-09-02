@@ -7,7 +7,11 @@ baseurl: "/remal-services"
 # theme: jekyll-theme-minimal
 # remote_theme: pages-themes/hacker@v0.2.0
 # theme: jekyll-theme-cayman
-remote_theme: just-the-docs/just-the-docs@v0.9.0
+#remote_theme: just-the-docs/just-the-docs@v0.9.0
+remote_theme: mmistakes/minimal-mistakes@v4.24.0
+#remote_theme: adamrehn/jekyll-theme-gitbook@v1.0.2
+#remote_theme: cotes2020/jekyll-theme-chirpy@v7.1.1
+
 plugins:
   - jekyll-remote-theme
 
