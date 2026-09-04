@@ -1,6 +1,6 @@
 # site settings
 url: "https://zappee.github.io"
-baseurl: "/remal-services"
+baseurl: "/agents"
 repository: "zappee/remal-services"
 name: "Arnold Somogyi"
 
