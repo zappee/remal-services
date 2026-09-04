@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: "Home"
+permalink: /
 author_profile: true
 ---
 
