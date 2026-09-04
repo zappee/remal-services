@@ -1,0 +1,24 @@
+/* assets/css/main.scss */
+
+/* center the author avatar container and layout elements */
+.author__avatar {
+  display: block !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* ensure the image block itself uses automatic centering margins */
+.author__avatar img {
+  margin: 0 auto !important;
+}
+
+/* optional: Center your name and bio text underneath the photo */
+.author__content {
+  text-align: center !important;
+}
+
+/* keeps your social link bullet points aligned nicely */
+.author__urls-wrapper {
+  text-align: left !important;
+}
