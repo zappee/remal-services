@@ -4,8 +4,7 @@ title: "My Portfolio"
 permalink: /portfolio/
 author_profile: true
 sidebar:
-  nav: "simple_sidebar"  # <-- Matches the key name in navigation.yml exactly
-
+  nav: "portfolio_sidebar"
 ---
 
 Showcase your projects here...
