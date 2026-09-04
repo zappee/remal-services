@@ -2,9 +2,12 @@
 main:
   - title: "Home"
     url: /
+
   - title: "About"
     url: /about/
+
   - title: "Blog"
     url: /setup/
+    
   - title: "Portfolio"
     url: /portfolio/

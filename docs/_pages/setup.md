@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Setuppppp"
-permalink: /portfolio/
+permalink: /setup/
 ---
 
 
