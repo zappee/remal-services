@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+author_profile: true
 ---
 
 # Fuit quartusque cornua miserarum 4
