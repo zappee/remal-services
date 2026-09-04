@@ -17,6 +17,11 @@ nav_sort: page_order
 
 site_navigation: main
 
+include:
+  - _pages
+
+
+
 
 # required plugins
 plugins:
