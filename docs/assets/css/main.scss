@@ -33,3 +33,13 @@
 .author__urls-wrapper {
   text-align: left !important;
 }
+
+/* ===================================================================
+   THE CORE THEME IMPORTS (Brings back the rest of the website design)
+   =================================================================== */
+
+/* automatically loads the blue skin variables you set up earlier */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+/* automatically loads all original layout rules, fonts, and structures */
+@import "minimal-mistakes";
