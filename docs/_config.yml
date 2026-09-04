@@ -5,17 +5,9 @@ baseurl: "/remal-services"
 
 # theme settings
 remote_theme: just-the-docs/just-the-docs@v0.9.0
-# ok remote_theme: pmarsceill/just-the-docs
-# ok remote_theme: just-the-docs/just-the-docs
+nav_sort: page_order
 
-
-# remote_theme: pages-themes/hacker@v0.2.0
-# remote_theme: "mmistakes/minimal-mistakes@v4.24.0"
-#remote_theme: adamrehn/jekyll-theme-gitbook@v1.0.2
-#remote_theme: cotes2020/jekyll-theme-chirpy@v7.1.1
-
+# required plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-nav_sort: page_order
