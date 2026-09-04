@@ -11,7 +11,7 @@ title_separator: "|"
 # theme settings
 # remote_theme: just-the-docs/just-the-docs@v0.9.0
 remote_theme: mmistakes/minimal-mistakes@4.28.1
-minimal_mistakes_skin: "sunrise" # aqua | sunrise
+minimal_mistakes_skin: "air" # air | contrast | dark | dirt | mint | sunrise | aqua | neon | plum | catppuccin_latte | catppuccin_mocha
 nav_sort: page_order
 
 
