@@ -20,7 +20,7 @@ site_navigation: main
 include:
   - _pages
 
-
+logo: "/assets/images/remal-logo.png"
 
 
 # required plugins
