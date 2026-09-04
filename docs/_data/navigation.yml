@@ -1,3 +1,4 @@
+# the main top header navbar links
 main:
   - title: "Home"
     url: /
@@ -10,3 +11,13 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+# sidebar definition for Portfolio page
+portfolio_sidebar:
+  - title: "Getting Started"
+    children:
+      - title: "Installation"
+        url: /portfolio/installation/
+
+      - title: "Configuration"
+        url: /portfolio/configuration/
