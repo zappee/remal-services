@@ -18,8 +18,8 @@ nav_sort: page_order
 site_navigation: main
 
 include:
-  - assets
-#  - _pages
+  - _pages
+#  - assets
 #  - _includes
 
 logo: "assets/images/remal-logo.jpg"
