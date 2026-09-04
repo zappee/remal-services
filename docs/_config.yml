@@ -18,6 +18,7 @@ site_navigation: main
 
 include:
   - _pages
+  - _includes
   - assets
 
 logo: "assets/images/remal-logo.jpg"
