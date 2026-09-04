@@ -14,8 +14,8 @@
 
 /* ensure the image block itself uses automatic centering margins */
 .author__avatar img {
-  width: 260px !important;       /* Increased from default ~150px-200px */
-  height: 260px !important;      /* Must match the width exactly for a perfect circle */
+  width: 200px !important;       /* Increased from default ~150px-200px */
+  height: 200px !important;      /* Must match the width exactly for a perfect circle */
   max-width: 100% !important;    /* Prevents the image from overflowing on smaller mobile screens */
   margin: 0 auto !important;     /* Keeps it perfectly centered */
   object-fit: cover !important;  /* Center-crops your image without stretching it */
