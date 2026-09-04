@@ -2,7 +2,7 @@
 layout: archive
 title: "My Portfolio"
 permalink: /portfolio/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "portfolio_sidebar"
 ---
