@@ -1,6 +1,6 @@
 # site settings
-# not considered: url: "https://zappee.github.io"
-# not considered: url:baseurl: "/agents"
+url: "https://zappee.github.io"
+url:baseurl: "/remal-services"
 repository: "zappee/remal-services"
 name: "Arnold Somogyi"
 
