@@ -21,7 +21,7 @@ include:
   - _pages
   - assets
 
-logo: "/assets/images/remal-logo.png"
+logo: "assets/images/remal-logo.jpg"
 
 
 # required plugins
