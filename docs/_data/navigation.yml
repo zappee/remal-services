@@ -14,7 +14,7 @@ main:
 
 # sidebar definition for Portfolio page
 portfolio_sidebar:
-  - title: "Getting Started"
+  - title: "Portfolio"
     children:
       - title: "Installation"
         url: /portfolio/installation/
