@@ -1,0 +1,10 @@
+# _data/navigation.yml
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /year-archive/
+  - title: "Portfolio"
+    url: /portfolio/
