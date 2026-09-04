@@ -1,7 +1,13 @@
 # site settings
+url: "https://zappee.github.io"
+baseurl: "/agents"
+repository: "zappee/remal-services"
+name: "Arnold Somogyi"
+
 title: "Project Documentation"
+subtitle: "Version 2.0"
 description: "A short catchphrase or description of your project."
-baseurl: "/remal-services"
+title_separator: "|"
 
 # theme settings
 # remote_theme: just-the-docs/just-the-docs@v0.9.0
