@@ -18,9 +18,9 @@ nav_sort: page_order
 site_navigation: main
 
 include:
-  - _pages
-  - _includes
   - assets
+#  - _pages
+#  - _includes
 
 logo: "assets/images/remal-logo.jpg"
 og_image: "assets/images/remal-logo.jpg" # The fallback branding card used for link sharing
