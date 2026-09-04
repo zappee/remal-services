@@ -2,6 +2,7 @@
 layout: archive
 title: "Setuppppp"
 permalink: /setup/
+author_profile: true
 ---
 
 

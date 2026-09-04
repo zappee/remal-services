@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Home
-nav_order: 1
 author_profile: true
 ---
 
-# Fuit quartusque cornua miserarum 4
+# Fuit quartusque cornua miserarum 45
 
 ## Abest illi cumulemus ab
 
