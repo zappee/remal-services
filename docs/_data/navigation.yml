@@ -1,4 +1,3 @@
-# _data/navigation.yml
 main:
   - title: "Home"
     url: /
@@ -6,7 +5,7 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Blog"
+  - title: "Setup"
     url: /setup/
     
   - title: "Portfolio"

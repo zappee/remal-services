@@ -1,5 +1,5 @@
 ---
-# Two lines of triple-dashes tell Jekyll to process this file as Sass!
+# this two lines of triple-dashes tell Jekyll to process this file
 ---
 
 /* assets/css/main.scss */
@@ -20,9 +20,7 @@
   margin: 0 auto !important;     /* Keeps it perfectly centered */
   object-fit: cover !important;  /* Center-crops your image without stretching it */
   border-radius: 50% !important; /* Forces the perfect symmetric circle shape */
-  mano: 11%
 }
-
 
 /* optional: Center your name and bio text underneath the photo */
 .author__content {
@@ -34,12 +32,6 @@
   text-align: left !important;
 }
 
-/* ===================================================================
-   THE CORE THEME IMPORTS (Brings back the rest of the website design)
-   =================================================================== */
-
-/* automatically loads the blue skin variables you set up earlier */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-
 /* automatically loads all original layout rules, fonts, and structures */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
