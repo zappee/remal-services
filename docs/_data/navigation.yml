@@ -16,6 +16,12 @@ main:
 portfolio_sidebar:
   - title: "Portfolio"
     children:
+      - title: "Mi et itt"
+        url: /portfolio/
+
+      - title: "akármi"
+        url: /portfolio/index/
+
       - title: "Installation"
         url: /portfolio/installation/
 
