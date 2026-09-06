@@ -8,6 +8,6 @@ sidebar:
   nav: "portfolio_sidebar"
 ---
 
-# Configuration Guide
+## How to configure 
 
 Follow these simple steps to install the system on a clean environment.
