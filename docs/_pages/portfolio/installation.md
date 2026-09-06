@@ -8,7 +8,7 @@ sidebar:
   nav: "portfolio_sidebar"
 ---
 
-# Advanced System Setup
+## Advanced System Setup
 
 This section covers production-grade deployments and alternative orchestration options.
 
