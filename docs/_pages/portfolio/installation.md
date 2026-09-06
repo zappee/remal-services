@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: single
 title: Installation
 permalink: /portfolio/installation/
 parent: Portfolio Overview
 ---
 
-# ⚙️ Advanced System Setup
+# Advanced System Setup
 
 This section covers production-grade deployments and alternative orchestration options.
 
@@ -15,6 +15,3 @@ services:
   app:
     image: yoursites/app:latest
 ```
-
----
-⬅️ Return to the **[Overview Component](./index.md)**
