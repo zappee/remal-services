@@ -3,6 +3,9 @@ layout: single
 title: Installation
 permalink: /portfolio/installation/
 parent: Portfolio Overview
+author_profile: false
+sidebar:
+  nav: "portfolio_sidebar"
 ---
 
 # Advanced System Setup
